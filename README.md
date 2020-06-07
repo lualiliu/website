@@ -14,4 +14,4 @@
 
 ### F1C100S
 
-支持FBTFT(ILI9341)
+[支持FBTFT(ILI9341)](https://lualiliu.github.io/website/f1c100s-fbtft-ili9341)
