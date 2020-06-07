@@ -14,4 +14,4 @@
 
 ### F1C100S
 
-[支持FBTFT(ILI9341)](https://lualiliu.github.io/website/f1c100s-fbtft.html)
+[支持FBTFT(SPI屏幕)](https://lualiliu.github.io/website/f1c100s-fbtft.html)
