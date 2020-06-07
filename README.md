@@ -1,4 +1,4 @@
-# The Minimal theme
+# 前言
 
 在 [司徒](https://steward-fu.github.io/website/index.htm) 的建议下，建立了这个个人网站，按他的话说，要是十年坚持下来做一个自己的个人博客，未来可期。
 
