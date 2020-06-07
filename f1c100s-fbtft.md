@@ -1,6 +1,7 @@
 在这里使用荔枝派nano做示例，而因为f1c100s只有两组spi，一组给了tf卡，另一组给了屏幕，就不能给spi flash了，所以，我们需要把原来spiflash（spi0）的接线引到spi屏幕上。
 
-###接线表
+### 接线表
+
 |  F1C100S   | SCREEN  |
 |  ----  | ----  |
 | PC3_SPI0_MOSI_LCD_RS  | SDA |
@@ -11,7 +12,7 @@
 
 背光直接接VCC
 
-###设备树
+### 设备树
 
 先删除原来spiflash的设备树内容
 
@@ -32,7 +33,7 @@
 		       	ili9341@0 {
 				compatible = "ilitek,ili9341";
 				reg = <0>;
-				spi-max-frequency = <50000000>;
+				spi-max-frequency = <50000000>; 
 				bgr;
 				rotate = <180>;
 				fps = <30>;
@@ -44,7 +45,7 @@
 		};
 ```
 
-###选用内核
+### 选用内核
 
 kernel 4.14
 
