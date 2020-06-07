@@ -8,7 +8,7 @@
 | PC0_SPI0_SCK_LCD_CS  | SCL |
 | PC1_SPI0_CS | CS |
 | PE11_RES | RESET |
-| PE10_CHRG | WR/A0/ |
+| PE10_CHRG | WR/A0/DC |
 
 背光直接接VCC
 
