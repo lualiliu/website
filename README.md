@@ -10,6 +10,10 @@
 
 ### RetroArch
 
+### Gambatte
+
+[编译](https://lualiliu.github.io/website/gambatte-compile.html)
+
 ## 硬件
 
 ### F1C100S
