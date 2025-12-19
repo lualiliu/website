@@ -14,6 +14,10 @@
 
 [编译](https://lualiliu.github.io/website/gambatte-compile.html)
 
+### pmbootstrap
+
+[搭建](https://lualiliu.github.io/website/pmbootstrap-setup.html)
+
 ## 硬件
 
 ### F1C100S
