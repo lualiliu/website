@@ -23,6 +23,7 @@ ln -s "$PWD/pmbootstrap/pmbootstrap.py" ~/.local/bin/pmbootstrap
 pmbootstrap --version
 
 ```
+可能存在的问题：如果提示报错pmbootstrap: command not found，请检查~/.local/bin/目录是否存在环境变量PATH中如果没有可在~/.bashrc下添加export PATH="$PATH:~/.local/bin"
 
 [RETURN](https://lualiliu.github.io/website/)
 

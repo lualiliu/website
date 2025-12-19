@@ -18,6 +18,10 @@
 
 [搭建](https://lualiliu.github.io/website/pmbootstrap-setup.html)
 
+### SDL1.2
+
+[搭建](https://lualiliu.github.io/website/sdl-opendingux-compile.html)
+
 ## 硬件
 
 ### F1C100S
