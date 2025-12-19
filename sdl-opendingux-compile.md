@@ -22,7 +22,7 @@ $ sudo apt-get install build-essential autoconf automake libtool
 $ sudo apt-get install libdrm-dev
 
 # 假如是postmarketOS
-$ sudo apk add g++ gcc autogen linux-headers autoconf make 
+$ sudo apk add g++ gcc autogen linux-headers autoconf make  libtool
 ```
 
 ## 配置编译选项

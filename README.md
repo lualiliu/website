@@ -22,6 +22,14 @@
 
 [搭建](https://lualiliu.github.io/website/sdl-opendingux-compile.html)
 
+[SDL_TTF](https://lualiliu.github.io/website/sdl-ttf-postmarketos-compile.html)
+
+[SDL_GFX](https://lualiliu.github.io/website/sdl-gfx-postmarketos-compile.html)
+
+### Gmenu2x
+
+[编译](https://lualiliu.github.io/website/gmenu2x-postmarketos-compile.html)
+
 ## 硬件
 
 ### F1C100S
